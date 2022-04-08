@@ -1,4 +1,4 @@
-Hooks instead of Classes
+Converting class statefull components to using react hooks
 
 # Getting Started with Create React App
 
